@@ -16,7 +16,7 @@
  *  Device address and id
  */
 
-#define BMP388_I2C_ADDR 0x77 << 1
+#define BMP388_I2C_ADDR 0x76 << 1
 #define BMP_CHIP_ID 0x50
 
 /*

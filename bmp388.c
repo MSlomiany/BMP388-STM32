@@ -10,7 +10,6 @@
  */
 
 /* Includes */
-#include "stm32g4xx_hal.h"
 #include "bmp388.h"
 
 /* Structure with calibration data */
